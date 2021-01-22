@@ -35,6 +35,9 @@ payload:
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,ss-local
 
+  # > Spotify
+  - DOMAIN-SUFFIX,ap.spotify.com,DIRECT
+
   # > Steam
   # - User-Agent,Steam*
   - DOMAIN-SUFFIX,pinyuncloud.com
