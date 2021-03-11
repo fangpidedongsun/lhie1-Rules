@@ -55,7 +55,7 @@
 
 - RULE-SET,Apple,Apple
 
-RULE-SET,Scholar,Scholar
+- RULE-SET,Scholar,Scholar
 
 - RULE-SET,Domestic,Domestic
 - RULE-SET,Domestic IPs,Domestic
