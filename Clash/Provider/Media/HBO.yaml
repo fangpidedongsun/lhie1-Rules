@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,hbogo.com
   - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,hbomaxcdn.com
 
   # > HBO GO
   # - USER-AGENT,HBO%20GO%20PROD%20HKG*
